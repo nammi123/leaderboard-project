@@ -1,0 +1,54 @@
+body{
+    background-color:#1c1c1c;
+    color: white;
+}
+.mainContainer{
+    /* border: 2px solid green; */
+    width: 60%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+#scoreMainContainer{
+    width: 100%;
+}
+.scoreBoard{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 1rem 0;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px rgb(0, 0, 0);
+}
+
+.scoreBoard p{
+    /* border: 2px solid green; */
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+input{
+    padding: 0.5rem 0.5rem;
+    border: none;
+    outline: none;
+    box-shadow: inset 3px 3px 7px black inset 4px 4px 10px black;
+    background-color: transparent;
+    color: white;
+   
+}
+
+ button{
+    padding: 0.3rem 0.5rem;
+    border: none; 
+    background-color: rgb(144, 1, 1);
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 600;
+} 
