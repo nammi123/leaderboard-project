@@ -13,7 +13,7 @@ Before you begin, ensure you have the following:
 # Installation
 Clone the Repository: Start by cloning this repository to your local machine 
 
-git clone https://github.com/nammi123/leaderboard-projects.git
+git clone https://github.com/nammi123/leaderboard-project.git
 
 ## Demo
 
